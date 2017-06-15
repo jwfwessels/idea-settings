@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="messages" type="JavaScript" />
+      <mapping pattern="GiftedMessageList" type="JavaScript" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
