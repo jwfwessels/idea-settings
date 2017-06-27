@@ -17,23 +17,24 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.sh</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.hm</mask>
       <mask>*.hml</mask>
-      <mask>*.</mask>
       <mask>*.secc</mask>
       <mask>*.sec</mask>
       <mask>*.se</mask>
       <mask>*.sce</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pu</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
