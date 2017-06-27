@@ -19,14 +19,15 @@
       <mask>*.j</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.htm</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
