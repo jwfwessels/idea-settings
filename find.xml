@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -20,9 +20,7 @@
       <mask>*.pu</mask>
       <mask>*.ht l</mask>
       <mask>*.ht</mask>
-      <mask>*.j</mask>
       <mask>*.ht</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -31,12 +29,14 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>j</mask>
       <mask>js</mask>
       <mask>*js</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
