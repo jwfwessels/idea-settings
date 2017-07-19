@@ -5,10 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.sh</mask>
       <mask>*.hm</mask>
       <mask>*.hml</mask>
       <mask>*.secc</mask>
@@ -34,10 +31,10 @@
       <mask>*.ht</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.h</mask>
+      <mask>*.</mask>
       <mask>*.</mask>
     </recentFileMasks>
   </component>
