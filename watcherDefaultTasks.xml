@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v8.1.3/bin/prettier" />
+      <option name="program" value="$USER_HOME$/Projects/prk/kopano/repo/kopano-web/node_modules/prettier/bin/prettier.js" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
