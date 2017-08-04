@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--write --single-quote --tab-width 4 --trailing-comma es5 $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
