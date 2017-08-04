@@ -2,6 +2,9 @@
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="Cvs.Unedit">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
@@ -10,6 +13,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
