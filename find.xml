@@ -29,13 +29,13 @@
       <mask>*url.py</mask>
       <mask>*ur.py</mask>
       <mask>*u.py</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
