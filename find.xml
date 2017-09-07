@@ -23,8 +23,6 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
       <mask>*url.py</mask>
       <mask>*ur.py</mask>
       <mask>*u.py</mask>
@@ -34,6 +32,8 @@
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
